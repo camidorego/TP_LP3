@@ -13,6 +13,7 @@ Este proyecto fue realizado para la materia Lenguajes de Programación 3 de la U
 - Spring Tool Suite
 - Github
 - Insomnia
+- Base de Datos H2
 
 ## Pasos para poder ejecutar el proyecto
 - Clonar el repositorio.
